@@ -1,0 +1,4 @@
+* @sguessou
+*.js @sguessou
+*.yml @sguessou
+/public/ @sguessou
